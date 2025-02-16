@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# @meta version 0.0.1
+# @meta version 1.0.0
 # @meta author Matthew Delaney <MattDelaney_948@protonmail.com>
 # @meta require-tools curl,base64,basename,grep
 # @describe Copy local files to Bitburner Home
