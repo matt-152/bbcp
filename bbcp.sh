@@ -6,7 +6,7 @@
 #
 # Uses the Steam version's API. Files must be valid script files (js, ts, etc.).
 
-# @arg src_files* <SRC> Local files to upload. If "-", read from stdin.
+# @arg src_files+ <SRC> Local files to upload. If "-", read from stdin.
 # @arg dst! <DST> Destination file/directory.
 # @env BB_API_TOKEN! From API Server > Copy Auth Token
 # @env BB_API_URL=http://localhost:9990
